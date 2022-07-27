@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  DepositsOnboarding
+
+  Created by Kembene Nkem on 7/27/22.
+  
+*/
+
+/** i18n for form manager */
+"fm_error_required_field" = "This field is required";
+"fm_error_min_field_count" = "Minimum length is @@expected";
+"fm_error_max_field_count" = "Maximum length is @@expected";
+"fm_error_min_field_value" = "Minimum value is @@expected";
+"fm_error_max_field_value" = "Maximum value is @@expected";
+"fm_error_invalid_field_entry" = "Your entry appears invalid";
+
+/** i18n for form manager used by the onboarding component*/
+"ob_fm__error_required_field" = "This field is required for onboarding";
+"ob_fm__error_min_field_count" = "Minimum length is @@expected";
+"ob_fm__error_max_field_count" = "Maximum length is @@expected";
+"ob_fm__error_min_field_value" = "Minimum value is @@expected";
+"ob_fm__error_max_field_value" = "Maximum value is @@expected";
+"ob_fm__error_invalid_field_entry" = "Your entry appears invalid";
+
+/** Onboarding component localization */
+"onboarding__controller_title_personal" = "Personal Information";
+"onboarding__controller_title_contact_us" = "Contact Us";
+"onboarding_summary_header_login" = "Login";
+"onboarding_summary_header_contact_us" = "Contact Us";
+"onboarding_summary_personal" = "Personal Information";
+/** App Localization*/
+
+"next" = "Next";
+"first_name" = "First Name";
+"last_name" = "Last Name";
+"field_label_first_name" = "First Name";
+"enter_first_name" = "Enter First Name";

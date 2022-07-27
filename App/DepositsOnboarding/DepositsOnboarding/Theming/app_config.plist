@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>font_name</key>
+	<string>Lato-Regular</string>
+	<key>field_border_radius</key>
+	<integer>5</integer>
+	<key>field_border_width</key>
+	<integer>1</integer>
+	<key>border_radius</key>
+	<integer>10</integer>
+	<key>border_width</key>
+	<integer>1</integer>
+	<key>controller_horizontal_edge</key>
+	<integer>20</integer>
+	<key>controller_vertical_edge</key>
+	<integer>5</integer>
+</dict>
+</plist>

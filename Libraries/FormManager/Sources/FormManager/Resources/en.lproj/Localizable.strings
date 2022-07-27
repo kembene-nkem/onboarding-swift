@@ -1,0 +1,7 @@
+"error_required_field" = "The @@fieldName field is required";
+"error_min_field_count" = "Minimum length is @@expected";
+"error_max_field_count" = "Maximum length is @@expected";
+"error_min_field_value" = "Minimum value is @@expected";
+"error_max_field_value" = "Maximum value is @@expected";
+"error_invalid_field_entry" = "Your entry appears invalid"
+
